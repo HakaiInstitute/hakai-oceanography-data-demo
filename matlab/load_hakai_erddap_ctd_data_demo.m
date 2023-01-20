@@ -8,6 +8,7 @@ options = weboptions;
 options.Timeout = 120;
 
 data = webread(url,options);
+
 %% 
 % Convert some of the variables to datetime objects to make time variables on 
 % plots pretty
