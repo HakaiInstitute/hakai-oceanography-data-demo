@@ -7,7 +7,8 @@ You can as an example run the notebooks present within this repostiory (and any 
 
 The following notebooks present the different python ways to retrieve Hakai's data and generate a plot:
 
-1. Get Hakai QU39 Data through the Hakai API
+1. [Get Hakai QU39 Data through the Hakai API](https://colab.research.google.com/github/HakaiInstitute/hakai-oceanography-data-demo/blob/main/python/get_hakai_api_data_demo.ipynb)
+2. [Get Hakai QU39 Data through ERDDAP ](https://colab.research.google.com/github/HakaiInstitute/hakai-oceanography-data-demo/blob/main/python/get_hakai_erddap_data_demo.ipynb)
 
 ### Run python locally
 
