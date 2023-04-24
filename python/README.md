@@ -19,6 +19,7 @@ Multiple ways exists to run python locally among these, the most popular are:
 
 ### Where I can learn more?
 A lot of ressources exist online to get started with Python among those:
+- http://swcarpentry.github.io/python-novice-gapminder/
 - VSCode made by Microsoft is one of the most popular IDE to use with python, here's their tutorial on [how to use python](https://code.visualstudio.com/docs/python/python-tutorial).
 - Microsoft made a number of videos available [here](https://learn.microsoft.com/en-us/shows/intro-to-python-development/?wt.mc_id=python-c9-niner)
 - RealPython is a good ressource to learn some of the basics
