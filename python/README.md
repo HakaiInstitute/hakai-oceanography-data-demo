@@ -17,7 +17,7 @@ Multiple ways exists to run python locally among these, the most popular are:
 - **Jupyter Lab**: Same as the notebook but with a more extensive interface to open multiple notebooks. Learn more here: https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html
 - **VSCode** (recommended): This is becoming the most popular tool for developping any bigger programming projects. Not just in python but in pretty much any languages. VSCode also can handle jupyter notebooks. VSCode is owned by Microsoft (like GitHub) and is freely available. This page present how to get started with VSCode in Python: https://code.visualstudio.com/docs/python/python-tutorial
 
-### Where I can learn Python?
+### Where I can learn more?
 A lot of ressources exist online to get started with Python among those:
 - VSCode made by Microsoft is one of the most popular IDE to use with python, here's their tutorial on [how to use python](https://code.visualstudio.com/docs/python/python-tutorial).
 - Microsoft made a number of videos available [here](https://learn.microsoft.com/en-us/shows/intro-to-python-development/?wt.mc_id=python-c9-niner)
