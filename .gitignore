@@ -4,3 +4,9 @@ mitoenv/
 **/.ipynb_checkpoints
 **/iframe_figures
 .DS_Store
+celery.sqlite
+celerybeat-schedule.db
+django-errors.log
+python/mercury/celery.sqlite
+python/mercury/celerybeat-schedule.db
+python/mercury/django-errors.log
