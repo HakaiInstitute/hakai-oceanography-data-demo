@@ -1,4 +1,4 @@
-folium
-pandas
-plotly
-mercury
+folium==0.14.0
+pandas==1.4.2
+plotly==5.9.0
+mercury==2.2.9

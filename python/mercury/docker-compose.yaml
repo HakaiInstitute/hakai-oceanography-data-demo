@@ -1,0 +1,12 @@
+version: '3'
+services:
+  dashboard:
+    # Path to dockerfile.
+    # '.' represents the current directory in which
+    # docker-compose.yml is present.
+    build: .
+    ports:
+      - "8000:8000"
+    container_name: hakai-mercury-dashboard
+    volumes:
+      - ./logs:/code/logs
